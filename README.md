@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I'm working in an enterprise.
+I'm looking for an Opportunities.
 
 * 🔭 I’m currently working with Python 3, SQL , DBMS and Data Visualization...
 * 🌱 I’m currently learning Data Analysis...
