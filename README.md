@@ -15,7 +15,7 @@ I'm looking for an Opportunities.
 </a>
 
 
-<a target="_blank" href="https://medium.com/@satyam1999" target="_blank">
+<a target="_blank" href="https://twitter.com/@satyam1999" target="_blank">
 <img alt="Twitter" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
 </a>
  
