@@ -15,8 +15,8 @@ I'm looking for an Opportunities.
 </a>
 
 
-<a target="_blank" href="https://twitter.com/@satyam1999" target="_blank">
-<img alt="Twitter" src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white" />
+<a target="_blank" href="https://twitter.com/satyam_p1999" target="_blank">
+<img alt="Twitter" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522twitter%2Bicon%2522&psig=AOvVaw1VSUs1P_QVEyCJriwIQ0ZT&ust=1664805749490000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiI2O_awfoCFQAAAAAdAAAAABAD" />
 </a>
  
  
