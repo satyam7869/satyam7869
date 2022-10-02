@@ -16,7 +16,7 @@ I'm looking for an Opportunities.
 
 
 <a target="_blank" href="https://twitter.com/satyam_p1999" target="_blank">
-<img alt="Twitter" src="https://www.google.com/url?sa=i&url=https%3A%2F%2Fstock.adobe.com%2Fsearch%3Fk%3D%2522twitter%2Bicon%2522&psig=AOvVaw1VSUs1P_QVEyCJriwIQ0ZT&ust=1664805749490000&source=images&cd=vfe&ved=0CAwQjRxqFwoTCKiI2O_awfoCFQAAAAAdAAAAABAD" />
+<img alt="Twitter" src="https://img.shields.io/twitter/url?style=social&url=https%3A%2F%2Ftwitter.com%2Fsatyam_p1999" />
 </a>
  
  
